@@ -1,0 +1,18 @@
+{
+
+"name":"Simiyu The Chicken",
+"description":"Chickens can't fly like birds, they have poor flight, and they can't fly high. They can fly over fences, or fly onto logs things like that. In this game, the player helps a chicken named Simiyu to jump on various logs and reach the stars. As the player achieves high altitude the game teaches him or her various theories leading to the existence of the earth, the current state and future of our universe in an interactive and enjoyable manner with the aid of pop ups that are seamlessly integrated with the game.",
+"launch_path":"/index.html",
+
+"icons":{
+"128":"/icon.png"
+},
+
+"developer":{
+"name":"momentum core",
+"url":""
+
+},
+"default_locale":"en"
+
+}
